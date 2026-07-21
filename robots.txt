@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thankyou/
+
+Sitemap: https://origoss.com/sitemap.xml
