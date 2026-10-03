@@ -1,0 +1,24 @@
+# Origoss Solutions
+
+> Origoss Solutions is a cloud native consulting company based in Budapest, Hungary. It provides DevOps and cloud native consulting, systems integration, systems support and training for Kubernetes and Red Hat OpenShift platforms, for enterprises, startups and systems integrators.
+
+Origoss Solutions is vendor neutral: it works with enterprise Kubernetes distributions (Red Hat OpenShift, SUSE Rancher), vanilla Kubernetes, managed Kubernetes services (AWS, Azure, GCP) and the wider cloud native ecosystem. Its DevOps mentors join client teams' regular meetings and DevOps processes. Clients quoted on the site include Walls.io, ExeLounge and Nokia; Kinsta is a customer.
+
+## Pages
+
+- [Home](https://origoss.com/): Overview of Origoss Solutions, its services, solutions and partners
+- [Services](https://origoss.com/services/): DevOps and cloud native consulting, systems integration, training and systems support
+- [Solutions](https://origoss.com/solutions/): Approach for enterprises, startups and systems integrators
+- [DevOps by Origoss](https://origoss.com/devops/): DevOps mentoring where Origoss engineers join your team's meetings and processes; technologies covered
+- [Expertise](https://origoss.com/expertise/): Vendor neutral expertise and technology partnerships
+- [References](https://origoss.com/references/): Case studies and client testimonials
+- [About us](https://origoss.com/about/): Who we are, why clients choose us, milestones and careers
+
+## Contact
+
+- [Contact form](https://origoss.com/#form): Get in touch with Origoss Solutions
+- [LinkedIn](https://www.linkedin.com/company/origoss): Company page
+
+## Optional
+
+- [Sitemap](https://origoss.com/sitemap.xml)
