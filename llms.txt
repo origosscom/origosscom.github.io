@@ -13,6 +13,16 @@ Origoss Solutions is vendor neutral: it works with enterprise Kubernetes distrib
 - [Expertise](https://origoss.com/expertise/): Vendor neutral expertise and technology partnerships
 - [References](https://origoss.com/references/): Case studies and client testimonials
 - [About us](https://origoss.com/about/): Who we are, why clients choose us, milestones and careers
+- [EU Tech Sovereignty](https://origoss.com/eu-tech-sovereignty/): Digital sovereignty built on Cloud Native; reducing vendor lock-in with sovereign-ready cloud and AI infrastructure
+  - [Digital Sovereignty Is More Than Data Residency](https://origoss.com/eu-tech-sovereignty/digital-sovereignty-more-than-data-residency/): Data, technology, operational, infrastructure and AI sovereignty
+  - [Understanding the EU's Four Sovereignty Assurance Levels](https://origoss.com/eu-tech-sovereignty/sovereignty-assurance-levels/): The proposed CADA Union Assurance Levels and how Origoss helps at each level
+  - [Our Technology Approach to Digital Sovereignty](https://origoss.com/eu-tech-sovereignty/technology-approach/): Kubernetes platforms, open source, GitOps and automation, sovereign AI infrastructure
+  - [Who We Help](https://origoss.com/eu-tech-sovereignty/who-we-help/): Enterprises and cloud and IT service providers
+  - [Sovereignty by Design](https://origoss.com/eu-tech-sovereignty/sovereignty-by-design/): Assess, design, build and migrate, operate and enable
+  - [Why Origoss Solutions?](https://origoss.com/eu-tech-sovereignty/why-origoss/): Cloud Native expertise and a European engineering partner
+  - [Start Your Digital Sovereignty Journey](https://origoss.com/eu-tech-sovereignty/start-your-sovereignty-journey/): First steps and technical consultation
+  - [Frequently Asked Questions](https://origoss.com/eu-tech-sovereignty/faq/): Digital sovereignty, EU data residency, Kubernetes portability, AI on own infrastructure
+  - [European Digital Sovereignty: Official References](https://origoss.com/eu-tech-sovereignty/official-references/): EU policy links and regulatory notice
 
 ## Contact
 
